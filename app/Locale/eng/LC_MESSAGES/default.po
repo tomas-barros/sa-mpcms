@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: English\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: SA:MP CMS Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.6.4\n"
+
+msgid "Home_NewPosts"
+msgstr "Recently added news"
+
+msgid "M_Articles"
+msgstr "Articles managment"
+
+msgid "M_Greetings"
+msgstr "Welcome back, "
+
+msgid "M_Updates"
+msgstr "Updates managment"
+
+msgid "M_Users"
+msgstr "Users managment"
+
+msgid "M_Logout"
+msgstr "Logout"
+
+msgid "M_Login"
+msgstr "Login"
+
+msgid "N_Home"
+msgstr "Index"
+
+msgid "N_Updates"
+msgstr "Updates"
+
+msgid "N_Players"
+msgstr "Players"
+
+msgid "N_Community"
+msgstr "Community"
